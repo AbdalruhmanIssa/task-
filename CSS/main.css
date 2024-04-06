@@ -1,0 +1,60 @@
+h1{
+    margin-bottom: 40px;
+    margin-left: 60px;
+}
+.main-div{
+    margin-left: 60px;
+    margin-bottom:3px;
+}
+img{
+width:200px ;
+}
+.iphone9
+{
+ border-style:solid;
+ border-color: whitesmoke;
+width: 200px;
+display:inline-block;
+margin: 3px;
+
+
+
+}
+.green{
+    color:green ;
+    font-size: large;
+    margin-right: 10px;
+    
+}
+.red{
+    color:red ;
+    font-size: small;
+ 
+
+}
+
+.add{
+ float: left;
+    padding: 8px 30px;
+    background-color:dodgerblue;
+    color: white;
+    border: 0;
+
+}
+.heart{
+    margin-left: 5px;
+    padding: 6px ;
+    height: 36.9px;
+    background-color: white;
+    border-color: aqua;
+border-style: solid;
+}
+svg
+{text-align: center;
+    width: 20px;
+    height: 16.5px;
+   
+}
+p{
+   color: gray;
+}
